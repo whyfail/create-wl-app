@@ -21,4 +21,4 @@ npm i create-wl-app -g
 ## 4. 内置模板列表
 
 - vite-react
-- vite-vue3
+- vite-vue3(暂未开发)
