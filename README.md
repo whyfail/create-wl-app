@@ -8,6 +8,8 @@
 
 ```js
 npm i create-wl-app -g
+或者
+npx create-wl-app create
 ```
 
 ## 3. 命令行
