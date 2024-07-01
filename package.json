@@ -1,6 +1,6 @@
 {
   "name": "create-wl-app",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "快速构建前端项目",
   "bin": {
     "create-wl-app": "bin/create-wl-app.js"
