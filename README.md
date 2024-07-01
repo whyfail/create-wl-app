@@ -24,3 +24,4 @@ npx create-wl-app create
 
 - vite-react
 - vite-vue3
+- vite-uni-app
